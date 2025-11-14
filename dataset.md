@@ -6,12 +6,12 @@ Please contact the authors to get access to the dataset, although the data can e
 
 | Name | Published | # Essays |
 |------|-----------|----------|
-| Practice General Test | 2003 | 12 |
-| Practice General Test #2 | 2011 | 12 |
-| Sample GRE® Issue Task with Strategies | 2022 | 6 |
-| Sample GRE® Argument Task with Strategies | 2022 | 6 |
-| Practice General Test #1 | 2023 | 6 |
-| Practice General Test #3 | 2023 | 6 |
+| [An Introduction to the Analytical Writing Section of the GRE General Test](https://web.viu.ca/marchante/courses/Psyc345/GREWriting.PDF) | 2003 | 12 |
+| [Practice General Test #2](https://www.edit95.com/files/file/Amir%20hosein/Article%2003/FILES/GRE%20general%20writing%20practice%20test.pdf) | 2011 | 12 |
+| [Sample GRE® Issue Task with Strategies](https://www.ets.org/pdfs/gre/sample-issue-task.pdf) | 2022 | 6 |
+| [Sample GRE® Argument Task with Strategies](https://www.ets.org/pdfs/gre/sample-argument-task.pdf) | 2022 | 6 |
+| [Practice General Test #1](https://www.ets.org/pdfs/gre/gre-practice-test-1-writing-18-point.pdf) | 2023 | 6 |
+| [Practice General Test #3](https://www.ets.org/pdfs/gre/gre-practice-test-3-writing-18-point.pdf) | 2023 | 6 |
 
 ---
 
