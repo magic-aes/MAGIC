@@ -30,3 +30,8 @@ Cooperation helped many leaders get where they are today, and will continue to d
 ### Ground Truth Feedback
 
 This adequate response presents a clear position on the issue in accordance with the assigned task, arguing that both competition and cooperation are important for leaders. The response uses counterarguments both in the construction of its overall position (comparing the value of both competition and cooperation) and in its discussion of the positive and negative aspects of competition. However, the development of ideas in this response is not as thorough or as persuasive as one would expect to see in a response that earns a score of 5 or 6. For instance, the example of Microsoft inventing Bing to compete with Google is certainly relevant, but it is not developed with any thoughtfulness. It is simply stated. Other examples are somewhat more fully developed, but there is also some tangential material (e.g., even the writer seems to understand that Michael Phelps does not quite fit into a discussion of leadership). In addition to its adequate development, this response displays adequate control of language. This response does not have the sentence variety or the skillful diction seen in a response that earns a higher score. There are some minor errors present, but nothing that interferes with clarity. Because this response presents a clear position on the issue, expressing meaning with adequate clarity, it earns a score of 4.
+
+
+### Enhanced Dataset
+
+The enhanced dataset includes numerical scores 1-6 for each rubric trait axis, adding an additional 240 data points (5 per essay) to the original dataset. 
